@@ -1,0 +1,6 @@
+/Users/macbook/Projects/CSharpFoundation/CSharpFoundation/obj/x86/Debug/CSharpFoundation.csprojAssemblyReference.cache
+/Users/macbook/Projects/CSharpFoundation/CSharpFoundation/obj/x86/Debug/CSharpFoundation.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/CSharpFoundation/CSharpFoundation/bin/Debug/CSharpFoundation.exe
+/Users/macbook/Projects/CSharpFoundation/CSharpFoundation/bin/Debug/CSharpFoundation.pdb
+/Users/macbook/Projects/CSharpFoundation/CSharpFoundation/obj/x86/Debug/CSharpFoundation.exe
+/Users/macbook/Projects/CSharpFoundation/CSharpFoundation/obj/x86/Debug/CSharpFoundation.pdb
